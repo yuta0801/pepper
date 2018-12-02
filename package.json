@@ -1,0 +1,18 @@
+{
+  "name": "pepper",
+  "version": "1.0.0",
+  "description": "Copy of pepper#3727",
+  "main": "src/index.js",
+  "repository": "https://github.com/yuta0801/pepper.git",
+  "author": "yuta0801",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "discord.js": "discordjs/discord.js",
+    "dotenv": "^6.1.0",
+    "klasa": "dirigeants/klasa"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}
